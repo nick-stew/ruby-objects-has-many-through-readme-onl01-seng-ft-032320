@@ -1,3 +1,5 @@
+
+
  attr_accessor :name, :age
 
   @@all = []
